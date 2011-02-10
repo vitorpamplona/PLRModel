@@ -1,7 +1,0 @@
-This package contains implementations to many PLR models and some latency models. The main.cpp shows how to use the model described in ACM TOG paper. Also, the PupilLifeCycle class helps to instanciate and work with other models.  
-
-LatencyModel and PupilDynamicsModel are abstract classes in which the models for latency and PLR extends. HistoryFifo is just an array of values to store the pupil size and light intensity per time and Utils and Vector are just utilities classes. Singleton is a class that allows only one instanciation of a class per execution. 
-
-All other .h files are just implemented models. In the beggining there are comments about the source (paper) of this models. 
-
-Fell free to use, change, remove and integrate this code in any non-commercial application. 
