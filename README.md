@@ -9,7 +9,7 @@ PLRModel is a library for photorealistic Pupil Light Reflex and Pupil Latency mo
 
 # Usage
 
-The folling code shows how to declare and use the Pamplona's Model: http://bit.ly/duD1oA  
+The folling code shows how to declare and use the [Pamplona's model](http://bit.ly/duD1oA):
 
 	#include "PupilLifecycle.h"
 
